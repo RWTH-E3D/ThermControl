@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Config>
+	<Application
+		name="Data Server"
+		version="1.0" 
+	/>
+    
+    <!-- host="137.226.245.219"  -->
+	<Server
+        host="0.0.0.0"
+		port="49162"
+	/>
+	<Measurement
+		interval="1"
+		internalTimerInterval="1000"
+        defaultRecordingInterval="1000"
+		defaultRecordingName="Recording"
+	/>
+</Config>

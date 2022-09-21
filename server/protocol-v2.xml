@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<data protocolVersion="2.0">
+    <request all="true" />
+    <send>
+        <signal name="U_IR_HEATER_L_L"  value="100" />
+        <signal name="U_IR_HEATER_L_R"  value="100" />
+        <signal name="U_IR_HEATER_R_L"  value="100" />
+        <signal name="U_IR_HEATER_R_R"  value="100" />
+        <signal name="U_FAN_L_L"        value="100" />
+        <signal name="U_FAN_L_R"        value="100" />
+        <signal name="U_FAN_R_L"        value="100" />
+        <signal name="U_FAN_R_R"        value="100" />
+        <signal name="U_BLUE_LED_L"     value="100" />
+        <signal name="U_BLUE_LED_R"     value="100" />
+    </send>
+</data>
